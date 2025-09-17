@@ -16,7 +16,7 @@ a character code and index using the CustomDialogueCharacter codes hack.
 To use these as playable characters, you will need to create an animation p3d, ie: will_a.p3d, and a cho script which defines the animations.
 
 # Credits
-Willj99 - Stoner Team / Slurm Team Developer Easter Egg models from Futurama Hit and Run and other mods.
-Duffhause - Fat Tony custom characters.
+- Willj99 - Stoner Team / Slurm Team Developer Easter Egg models from Futurama Hit and Run and other mods.
+- Duffhause - Fat Tony custom characters.
 
 
